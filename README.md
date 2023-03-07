@@ -1,4 +1,4 @@
-# dangeridges-image-filename-scraper
+# Dangerridges Image Filename Scraper
 
 The Image Filename Scraper is a web application that allows users to scrape image filenames from any URL and display them in a list. The application uses a regular expression to match all strings that end in .jpg, .png, or .gif, and returns them in a list.
 
