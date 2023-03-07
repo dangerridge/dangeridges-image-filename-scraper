@@ -17,7 +17,7 @@
 		function scrapeFilenames(url) {
 
 			// Send a GET request to the proxy server with the provided URL
-			const proxyUrl = 'https://cors-anywhere.herokuapp.com/' + url;
+			const proxyUrl = 'https://corsanywhere.herokuapp.com/' + url;
 			fetch(proxyUrl)
 				.then(response => response.text())
 				.then(data => {
