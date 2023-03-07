@@ -17,3 +17,6 @@ To run the Image Filename Scraper locally, simply download the code and open the
 ##License
 
 The Image Filename Scraper is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
+
+## Project Info
+This is a solo project written for work-related reasons, but incidentally it does meet the criteria to meet the "Page Scraper" project of Karan's Projects: https://github.com/karan/Projects#web
